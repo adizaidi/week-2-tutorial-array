@@ -10,6 +10,8 @@
 //main function section 
 int main(){
     //write here your program
+    float heightPersons[5]={147.3,150.5,163.8,176.9,182.9};
+    printf("%f",heightpersons);
 
 
     return 0;
